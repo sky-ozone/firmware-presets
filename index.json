@@ -462,6 +462,7 @@
       "viper",
       "viper lite",
       "vista",
+      "VISTA OSD",
       "Voltage",
       "vtx",
       "vtx table",
@@ -885,6 +886,24 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/skyozone-osd.txt",
+      "hash": "1cdccf7fdf5ff426a051498dbe53ea8cb1aa00ce18bd9fe6d493670b403c557b",
+      "title": "SKYOZONE OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "5inch",
+        "freestyle",
+        "beginner",
+        "VISTA OSD"
+      ],
+      "author": "Parik",
       "priority": 0
     },
     {
