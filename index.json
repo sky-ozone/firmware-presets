@@ -853,6 +853,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/skyozone-modes.txt",
+      "hash": "6e2a31efa8f25d65bc63851da787359d15d5ebdad7d252064a159d9e8801b0db",
+      "title": "Parik Modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "5inch",
+        "freestyle",
+        "beginner",
+        "modes"
+      ],
+      "author": "Parik",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/osd/defaults.txt",
       "hash": "36eb8ae097d0362030b297477c971280aad5562ac512a3f7ffa91949ed56db82",
       "title": "Default 4.3 OSD settings",
@@ -1483,7 +1501,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/sky-ozone.txt",
-      "hash": "4131731a0ccd17ef51a60197b841f58fb4991feebbfe1b09e0485b9b53495e7d",
+      "hash": "d0c3d39ed1ff550489446d767642fd243c63e0f4912313063356d619f767405b",
       "title": "Parik sky-ozones rates for 5' inch HD quad",
       "firmware_version": [
         "4.3"
@@ -3571,7 +3589,7 @@
     },
     {
       "fullPath": "presets/4.4/other/Tehllama_5in_Race_Multivoltage.txt",
-      "hash": "ffcab5e1c9b7e1688927b53870eab57cb84ab4661101eb6add55bba32dc27c17",
+      "hash": "69196f1b328ee290fb8293affa6dd96677d14512e1782112c4cb5af98f43e855",
       "title": "Tehllama 5\" Race Multivoltage",
       "firmware_version": [
         "4.4"
@@ -3601,7 +3619,7 @@
     },
     {
       "fullPath": "presets/4.4/other/Tehllama_5in_Race_Spec_Multi.txt",
-      "hash": "d5cc5afc6ccd98a78702a495625de063667c8229957a15f218a426976871a169",
+      "hash": "4209d81e0d0e9e2c0a23b5a6def01eb6d4447f036ca7d3e781f5abe8e26ee8bf",
       "title": "Tehllama 5\" Race Spec ONLY Multivoltage",
       "firmware_version": [
         "4.4"
