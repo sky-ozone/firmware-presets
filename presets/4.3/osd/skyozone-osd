@@ -1,0 +1,51 @@
+#$ TITLE: SKYOZONE OSD
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: 5inch, freestyle, beginner, VISTA OSD 
+#$ AUTHOR: Parik
+#$ DESCRIPTION: OSD for 5inch freestyle quad TX12 , ExpressLRS RX AND DJI AIR, CADDX VISTA
+
+
+set osd_warn_batt_not_full = OFF
+set osd_warn_esc_fail = OFF
+set osd_warn_core_temp = OFF
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+set osd_warn_rssi = ON
+set osd_cap_alarm = 1000
+set osd_alt_alarm = 400
+set osd_vbat_pos = 6392
+set osd_rssi_pos = 6233
+set osd_link_quality_pos = 6240
+set osd_rssi_dbm_pos = 6272
+set osd_tim_2_pos = 266
+set osd_remaining_time_estimate_pos = 299
+set osd_flymode_pos = 6457
+set osd_throttle_pos = 6304
+set osd_crosshairs_pos = 6349
+set osd_current_pos = 55
+set osd_mah_drawn_pos = 6528
+set osd_gps_speed_pos = 100
+set osd_gps_lon_pos = 67
+set osd_gps_lat_pos = 35
+set osd_gps_sats_pos = 4
+set osd_home_dir_pos = 9
+set osd_home_dist_pos = 12
+set osd_flight_dist_pos = 79
+set osd_compass_bar_pos = 41
+set osd_altitude_pos = 131
+set osd_pidrate_profile_pos = 6489
+set osd_warnings_pos = 6537
+set osd_avg_cell_voltage_pos = 6496
+set osd_battery_usage_pos = 40
+set osd_disarmed_pos = 108
+set osd_nvario_pos = 164
+set osd_rtc_date_time_pos = 8
+set osd_flip_arrow_pos = 6285
+set osd_stat_rtc_date_time = ON
+set osd_stat_endbatt = ON
+set osd_stat_battery = ON
+set osd_stat_max_alt = ON
+set gyro_1_align_yaw = 1800
+set name = AAI BABA
