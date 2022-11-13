@@ -1,7 +1,7 @@
 #$ TITLE: Parik Modes
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: 5inch, freestyle, beginner,modes
 #$ AUTHOR: Parik
 #$ DESCRIPTION: Modes for 5inch freestyle quad TX12 and ExpressLRS RX
